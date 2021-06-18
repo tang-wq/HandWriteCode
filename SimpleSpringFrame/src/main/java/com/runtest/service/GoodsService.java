@@ -1,4 +1,4 @@
-package com.spring.runtest.service;
+package com.runtest.service;
 
 /**
  * @Author: tangwq

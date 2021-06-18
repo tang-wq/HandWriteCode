@@ -1,4 +1,4 @@
-package com.spring.runtest.service;
+package com.runtest.service;
 
 import com.spring.annontation.Autowired;
 import com.spring.annontation.Component;

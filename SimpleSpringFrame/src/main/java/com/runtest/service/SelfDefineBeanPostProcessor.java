@@ -1,4 +1,4 @@
-package com.spring.runtest.service;
+package com.runtest.service;
 
 import com.spring.annontation.Component;
 import com.spring.processor.BeanPostProcessor;

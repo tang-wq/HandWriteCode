@@ -1,4 +1,4 @@
-package com.threadPool;
+package com.threadpool;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
