@@ -1,4 +1,4 @@
-package com.runtest.config;
+package com.spring.runtest.config;
 
 import com.spring.annontation.ComponentScan;
 
@@ -6,6 +6,6 @@ import com.spring.annontation.ComponentScan;
  * @Author: tangwq
  */
 
-@ComponentScan("com.runtest.service")
+@ComponentScan("com.spring.runtest.service")
 public class AppConfig {
 }

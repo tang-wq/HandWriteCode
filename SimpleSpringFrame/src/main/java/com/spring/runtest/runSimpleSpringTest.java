@@ -1,7 +1,7 @@
-package com.runtest;
+package com.spring.runtest;
 
-import com.runtest.config.AppConfig;
-import com.runtest.service.GoodServiceImpl;
+import com.spring.runtest.config.AppConfig;
+import com.spring.runtest.service.GoodServiceImpl;
 import com.spring.context.SimpleApplicationContext;
 
 /**
